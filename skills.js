@@ -1,4 +1,6 @@
-function calculateNumbers(var1, var2){
-    console.log(var1+var2);
+function calculateNumbers() {
+  console.log('Calculating numbers...');
+  const result = 4 * 5;
+  console.log(result);
 }
 calculateNumbers();
